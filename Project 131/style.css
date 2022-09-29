@@ -1,0 +1,14 @@
+body{
+
+    background-image: url("44.jpg");
+    background-size: cover;
+}
+
+button{
+    margin:70px;
+}
+
+h1{
+color: gold;
+text-shadow: 5px 5px 5px;
+}
